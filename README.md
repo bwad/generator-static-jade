@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # generator-static-jade [![Build Status](https://secure.travis-ci.org/bwad/generator-static-jade.png?branch=master)](https://travis-ci.org/bwad/generator-static-jade)
 
 A generator for [Yeoman](http://yeoman.io).
@@ -45,3 +46,9 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 ## License
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
+=======
+generator-static-jade
+=====================
+
+Yeoman generator for static site using jade 
+>>>>>>> bb486b456e9295d3419cf09c3acee7e341dbf2fb
